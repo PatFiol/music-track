@@ -1,0 +1,15 @@
+{
+  "name": "music-track",
+  "version": "1.0.0",
+  "description": "project about creating a personal music archive tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "music-track"
+  },
+  "author": "Patricia Fiol",
+  "license": "ISC"
+}
