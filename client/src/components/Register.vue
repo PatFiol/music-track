@@ -10,11 +10,11 @@
 
 <script>
 export default {
-  name: "Register-User",
+  name: 'Register-User',
   props: {
     msg: String,
   },
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

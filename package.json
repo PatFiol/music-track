@@ -11,5 +11,8 @@
     "url": "music-track"
   },
   "author": "Patricia Fiol",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier-eslint-cli": "^6.0.1"
+  }
 }
